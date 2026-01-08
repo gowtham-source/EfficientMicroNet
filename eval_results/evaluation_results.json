@@ -1,0 +1,20 @@
+{
+  "model": "emn_small",
+  "dataset": "cifar10",
+  "parameters": {
+    "total_params": 2654480,
+    "trainable_params": 2654480,
+    "total_params_millions": 2.65448
+  },
+  "latency": {
+    "avg_latency_ms": 16.834888458251953,
+    "throughput_fps": 59.400452962896246,
+    "num_runs": 100
+  },
+  "accuracy": 95.39,
+  "top5_accuracy": 99.91,
+  "mean_class_accuracy": 95.39,
+  "macro_precision": 95.39261462435911,
+  "macro_recall": 95.3899999990461,
+  "macro_f1": 95.38041370327917
+}
