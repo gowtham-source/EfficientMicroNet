@@ -249,8 +249,8 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{efficientmicronet2024,
   title={EfficientMicroNet: A Novel Lightweight Architecture for Image Classification},
-  author={Research Implementation},
-  year={2024}
+  author={Gowtham M},
+  year={2026}
 }
 ```
 
